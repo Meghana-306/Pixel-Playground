@@ -57,4 +57,4 @@ A browser-based pixel drawing playground built with React.
 
 ---
 
-Made for the COSC Pixel Playground challenge!
+Created by Meghana and Vasanth
